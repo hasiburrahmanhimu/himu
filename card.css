@@ -1,0 +1,143 @@
+body{
+background-color: rgba(234, 250, 6, 0.493);
+position: relative;
+
+}
+.img{
+    opacity: 35%;
+   position: fixed;
+
+}
+.img2:hover{
+transform: scale(1.06);
+
+}
+.card{
+width:600px;
+height: 240px;
+background-color:rgb(58, 4, 4);
+position: absolute;
+top: 260px;
+left: 470px;
+box-shadow: 4px 9px  rgb(253, 194, 0);
+
+}
+
+.img2{
+position: absolute;
+height: 190px;
+width: 190px;
+border-radius: 90%;
+top: 20px;
+left: 19px;
+border: 7px solid white;
+transition: 0.6s;
+}
+h4{
+    position: absolute;
+    border-radius: 60%;
+    background-color: rgb(238, 255, 0);
+    color: rgb(0, 0, 0);
+    top: -30px;
+    left: -15px;
+    padding: 6px;
+  
+}
+h3{
+    position: absolute;
+    background-color: aliceblue;
+    padding: 10px;
+    border-radius: 65%;
+    left: 580px;
+    top: -33px;
+}
+h1{
+position: absolute;
+background-color: rgb(12, 221, 176);
+font-size: larger;
+width: 250px;
+text-align: center;
+left: 260px;
+top: 23px;
+padding: 9px;
+border-left: 6px solid wheat;
+border-right: 6px solid wheat;
+}
+p{
+
+    position: absolute;
+color: aliceblue;
+left: 240px;
+top: 70px;
+font-family: Courier;
+transition: 1s;
+}
+p:hover{
+
+    transform: scale(0.7);
+}
+h5{
+position: absolute;
+background-color: yellow;
+padding-left: 9px;
+padding-right: 9px;
+top: 145px;
+font-size: 130%;
+left: 520px;
+border-radius: 10%;
+}
+h6{
+    position: absolute;
+  
+    color: aliceblue;
+    font-size: 130%;
+    top: 125px;
+    left: 250px;
+    border-radius: 10%;
+    }
+    h7{
+        position: absolute;
+      
+        color: aliceblue;
+        font-size: 130%;
+        top: 173px;
+        left: 350px;
+      
+        }
+        h8{
+            position: absolute;
+          
+            color: aliceblue;
+            font-size: 130%;
+            top: 173px;
+            left: 440px;
+            
+            }
+            h9{
+                position: absolute;
+              
+                color: rgb(236, 253, 0);
+                font-size: 100%;
+                top: 198px;
+                left: 238px;
+               
+                }
+                h10{
+                    position: absolute;
+                  
+                    color: rgb(224, 162, 253);
+                    font-size: 100%;
+                    top: 198px;
+                    left: 325px;
+                    
+                    }
+                     h11{
+                        position: absolute;
+                        color: rgb(4, 240, 220);
+                        font-size: 100%;
+                        top: 198px;
+                        left: 413px;
+                        
+                        }
+
+            
